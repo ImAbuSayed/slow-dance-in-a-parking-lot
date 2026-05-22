@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-dance-in-a-parking-lot/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Slow Dance in a Parking Lot](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-in-a-parking-lot/) |
+| **Get License** | [Get License For Slow Dance in a Parking Lot](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-in-a-parking-lot/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pull the truck into the shadows, turn the engine down
+> We got the best spot waiting on the edge of town
+> Let the headlights fade, let the radio play low
+> I want to feel you close to me, taking it slow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
